@@ -1,0 +1,4 @@
+Trikampio tipas: bukasperimetras:6
+Trikampio tipas: bukasperimetras:15
+Trikampio tipas: lygiakrastisperimetras:36
+Trikampio tipas: lygiasonisperimetras:171

@@ -1,0 +1,5 @@
+Tomas;1000;24;vyras
+Saulius;1400;45;vyras
+Indre;1200;30;moteris
+Tadas;2000;19;vyras
+Inga;600;25;moteris

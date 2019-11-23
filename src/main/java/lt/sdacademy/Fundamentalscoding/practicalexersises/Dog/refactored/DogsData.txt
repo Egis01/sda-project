@@ -1,0 +1,3 @@
+Rudis,12,rudas
+Subis,10,juodas
+Pukis,8,baltas
